@@ -1,0 +1,24 @@
+{
+  "name": "brevifolia-next",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.0.4",
+    "gray-matter": "^4.0.3",
+    "next": "13.0.4",
+    "glob": "^8.0.3",
+    "raw-loader": "^4.0.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-markdown": "^8.0.3"
+  },
+  "devDependencies": {
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.4"
+  }
+}
